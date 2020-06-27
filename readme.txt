@@ -1,2 +1,2 @@
 Git is a tool.
-Git issue.
+Git is a  issue.
